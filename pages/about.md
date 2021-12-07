@@ -2,12 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 2
 ---
 
-# **About Me**
-
-Hi. My name is **{{ site.author.name }}** :wave:<br>
+# **About Me :wave:**
 
 I am currently a backend software developer at Komprise. I will be applying for a Master's in Computer Science in the US for Fall 2022.
 

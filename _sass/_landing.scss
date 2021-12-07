@@ -27,14 +27,13 @@
   object-position: center;
 }
 
-.test {
+.line1 {
   margin-top: 100px;
   margin-left: 100px;
   white-space: nowrap;
   overflow: hidden;    
   font-family: "Poppins", sans-serif;
   font-size: 40px;
-  color: black;
   animation: animated-text 1.5s steps(30,end) 1s 1 normal both;
 }
 
@@ -45,19 +44,45 @@
   to{width: 500px;}
 }
 
-.test2 {
-  left: 10;
+.line2 {
+  margin-top: -10px;
+  margin-left: 100px;
   white-space: nowrap;
   overflow: hidden;    
   font-family: "Poppins", sans-serif;
   font-size: 40px;
-  color: black;
-  animation: animated-text2 2s steps(30,end) 1s 1 normal both;
+  animation: animated-text2 2s steps(30,end) 2s 1 normal both;
 }
 
 /* text animation */
 
 @keyframes animated-text2{
   from{width: 0;}
-  to{width: 472px;}
+  to{width: 700px;}
+}
+
+.line3 {
+  margin-top: -10px;
+  margin-left: 100px;
+  white-space: nowrap;
+  overflow: hidden;    
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  animation: animated-text2 2s steps(30,end) 4s 1 normal both;
+}
+
+.line4 {
+  margin-top: -10px;
+  margin-left: 100px;
+  white-space: nowrap;
+  overflow: hidden;    
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  animation: animated-text2 2s steps(30,end) 6s 1 normal both;
+}
+
+.emoji {
+    font-size: 40px;
+    vertical-align: middle;
+    line-height: 2;
 }
