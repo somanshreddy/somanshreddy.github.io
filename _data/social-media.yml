@@ -15,6 +15,7 @@ email:
   url   : "mailto:"
   icon  : fas fa-envelope
   color : db4437
+  display_name: "Email"
 
 facebook:
   url   : https://www.facebook.com/
@@ -25,6 +26,7 @@ github:
   url   : https://www.github.com/
   icon  : fab fa-github
   color : 333333
+  display_name: "GitHub"
 
 gitlab:
   url   : https://www.gitlab.com/
@@ -45,6 +47,7 @@ linkedin:
   url   : https://www.linkedin.com/in/
   icon  : fab fa-linkedin-in
   color : 007bb5
+  display_name: "LinkedIn"
 
 medium:
   url   : https://medium.com/@
@@ -80,6 +83,7 @@ twitter:
   url   : https://www.twitter.com/
   icon  : fab fa-twitter
   color : 1da1f2
+  display_name: "Twitter"
 
 vimeo:
   url   : https://www.vimeo.com/
