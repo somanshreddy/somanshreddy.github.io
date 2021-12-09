@@ -1,13 +1,17 @@
 ---
 layout: post
 title:  "Best Books for Software Developers: My Opinion"
-date:   2021-09-26 05:28:22 +0530
+date:   2021-12-09 05:28:22 +0530
 tags: [books]
 categories: books
-color: info
+color: dark
 style: fill
 description: Some of the best books for software developers that I have read!
 ---
+
+<h2><span style="color:red">Below list is in progress</span></h2>
+
+### List of books
 
 |      Title     |     Author    |   Category |   My Opinion   |
 | :-------------:|:-------------:| :---------:| :----------:|
