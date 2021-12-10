@@ -13,6 +13,8 @@ I am a backend software development engineer at Komprise. I will be applying for
 Research Interests
 Experience
 Programming Languages
+GitHub Contributions
+Upcoming features on this website
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
@@ -29,6 +31,10 @@ Programming Languages
 <!-- {% include about/skills.html title="Other Skills" source=site.data.other-skills %} -->
 </div>
 
-<div class="row">
+<div class="row" id="github-contributions">
 {% include about/github.html title="GitHub Contributions" %}
+</div>
+
+<div class="row" id="upcoming-features-on-this-website">
+{% include about/upcoming_features.html title="Upcoming features on this website" %}
 </div>
