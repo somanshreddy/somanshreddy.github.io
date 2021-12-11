@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 2
+weight: 1
 ---
 
 # **About Me :wave:**
@@ -24,17 +24,12 @@ Check out my <a href="https://drive.google.com/file/d/1ReNcJ3OBSsS92TOQSbum2PXcY
 Please refer to the below table of contents to navigate through the rest of the page.
 
 {% capture list_items %}
-Research Interests
 Experience
 Programming Languages
 GitHub Contributions
 Upcoming features on this website
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
-
-<div class="row" id="research-nterests">
-{% include about/research.html title="Research Interests" %}
-</div>
 
 <div class="row" id="experience">
 {% include about/timeline.html title="Experience" %}

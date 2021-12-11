@@ -8,3 +8,29 @@ color: primary
 style: fill
 description: How I scored a 337/340 on the GRE without spending any money on expensive test prep services
 ---
+
+## Official scores
+
+<img src="/Images/GRE_Official_Score.png" alt="GRE Official Score">
+
+## My experience
+
+There are a plethora of detailed guides available online on how to study for the GRE. I would recommend that you check out some posts on Reddit. There is no one-size-fits-all strategy hence I recommended reading a few different experiences.
+
+The goals of this exercise is given below:
+
+<ul>
+	<li>List the resources that you require for your exam preparation.</li>
+	<li>Analyze the common mistakes that test-takers make.</li>
+	<li>Identify the patterns in the practices followed by top scorers.</li>
+</ul>
+
+As for this blog post, I will address each of the above points based on my experience. Before that, let's start with a precursor.
+
+### Part 0: Before you start
+
+### Part 1: Resources
+
+### Part 2: Mistakes
+
+### Part 3: Patterns
