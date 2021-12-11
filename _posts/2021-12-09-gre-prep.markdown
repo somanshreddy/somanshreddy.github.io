@@ -15,7 +15,7 @@ description: How I scored a 337/340 on the GRE without spending any money on exp
 
 ## My experience
 
-There are a plethora of detailed guides available online on how to study for the GRE. I would recommend that you check out some posts on Reddit. There is no one-size-fits-all strategy hence I recommended reading a few different experiences.
+There are a plethora of detailed guides available online on how to study for the GRE. I would recommend that you check out some Reddit posts by top scorers. There is no one-size-fits-all strategy hence I recommended reading a few different test-prep experiences.
 
 The goals of this exercise is given below:
 
@@ -29,7 +29,17 @@ As for this blog post, I will address each of the above points based on my exper
 
 ### Part 0: Before you start
 
+<ol>
+	<li>Create an ETS GRE account</li>
+	<li>Familiarize yourself with the test pattern, i.e, the test duration, the number of sections and the number of questions in each section</li>
+</ol>
+
 ### Part 1: Resources
+
+<ol>
+	<li>Official ETS guides - Ironically, THE best test material yet the most often overlooked</li>
+	<li>For Verbal, the test taking strategies outlines in <a href="https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ">GregMat's YouTube channel</a> are excellent!</li>
+</ol>
 
 ### Part 2: Mistakes
 
