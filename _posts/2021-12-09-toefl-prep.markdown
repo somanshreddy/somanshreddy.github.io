@@ -6,5 +6,5 @@ tags: [exam]
 categories: exam
 color: secondary
 style: fill
-description: How I scored a 117/120 on the TOEFL without spending money on expensive test prep services
+description: How I scored a 117/120 on the TOEFL without spending any money on expensive test prep services
 ---
