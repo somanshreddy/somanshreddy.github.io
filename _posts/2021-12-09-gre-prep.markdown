@@ -43,4 +43,13 @@ As for this blog post, I will address each of the above points based on my exper
 
 ### Part 2: Mistakes
 
+<ul>
+	<li>Focusing solely on third party test preparation material because you paid the big bucks for it. As GregMat stresses in many of his videos, the ETS material is the real deal. Hence, it most closely resembles the actual test - in particular, the subtle ways in which the GRE answer choices trick you.</li>
+	<li>Not reviewing enough. Do not focus on solving as many questions as you can. You need to focus on analyzing your mistakes and trying to identify patterns.</li>
+</ul>
+
 ### Part 3: Patterns
+
+<ul>
+	<li>Maintaining an error log for Quant. This is essentially a list of the mistakes that you have made. This should not contain any specific questions that you have answered incorrectly. It works at a higher level of abstraction - the concept. For example, not considering negative numbers, not taking 2 as a prime, etc are perfect candidates for the error log.</li>
+</ul>
