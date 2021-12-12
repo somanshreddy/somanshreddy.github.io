@@ -6,7 +6,6 @@ tags: [industry]
 categories: industry
 color: light
 style: fill
+comments: true
 description: After having mentored 4 batches of interns over the last 2 years, there are certain patterns that I noticed.
 ---
-
-Hi

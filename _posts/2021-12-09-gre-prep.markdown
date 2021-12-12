@@ -6,6 +6,7 @@ tags: [exam]
 categories: exam
 color: primary
 style: fill
+comments: true
 description: How I scored a 337/340 on the GRE without spending any money on expensive test prep services
 ---
 

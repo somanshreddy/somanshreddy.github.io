@@ -6,6 +6,7 @@ tags: [exam]
 categories: exam
 color: secondary
 style: fill
+comments: true
 description: How I scored a 117/120 on the TOEFL without spending any money on expensive test prep services
 ---
 
@@ -20,11 +21,11 @@ description: How I scored a 117/120 on the TOEFL without spending any money on e
 
 ## My experience
 
-As you can see above, I have written the TOEFL exam twice. Unfortunately, my first score had expired by the time I had decided to apply for my Masters. Oddly enough, I scored 30 in all sections albeit interleaved among both the tests. This is as expected since there is an element of variability in such tests.
+As you can see above, I have written the TOEFL exam twice. Unfortunately, my first score had expired by the time I had decided to apply for my Masters. I scored 30 in all sections albeit interleaved among both the tests. This is not very surprising since there is an element of variability in such tests.
 
 While the TOEFL is much easier than the Verbal section of the GRE, it is essential that one familiarizes themselves with some of its nuances.
 
-There are a plethora of detailed guides available online on how to study for the TOEFL. I would recommend that you check out posts on Reddit. There is no one-size-fits-all strategy hence I recommended reading a few different experiences. 
+There are a plethora of detailed guides available online on how to study for the TOEFL. I would recommend that you check out some posts on Reddit. There is no one-size-fits-all strategy hence I recommended reading a few different experiences. 
 
 The goals of this exercise is given below:
 

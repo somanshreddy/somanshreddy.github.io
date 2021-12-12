@@ -6,5 +6,6 @@ tags: [undergrad]
 categories: undergrad
 color: danger
 style: fill
+comments: true
 description: After having worked in the industry for 2 years, there are many things that I wish a BTech had taught me.
 ---
