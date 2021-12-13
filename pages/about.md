@@ -15,18 +15,6 @@ I have recently developed an interest in learning (and using) new words to <stri
 
 Check out my <a href="https://drive.google.com/file/d/1ReNcJ3OBSsS92TOQSbum2PXcYuULdD63/view?usp=sharing">CV/Resume</a> for more details about my work.
 
----
-
-Please refer to the below table of contents to navigate through the rest of the page.
-
-{% capture list_items %}
-Experience
-Programming Languages
-GitHub Contributions
-Upcoming features on this website
-{% endcapture %}
-{% include elements/list.html title="Table of Contents" type="toc" %}
-
 <div class="row" id="experience">
 {% include about/timeline.html title="Experience" %}
 </div>
