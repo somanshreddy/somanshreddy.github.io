@@ -9,9 +9,7 @@ weight: 1
 
 I am a backend software development engineer at Komprise. I am broadly interested in Distributed Systems, Systems for Machine Learning and the Cloud.
 
-I have majored in Computer Science with a minor in Intelligent Systems at Manipal Institute of Technology (BTech).
-
-Currently I am applying for a Master's in Computer Science in the US for Fall 2022.
+I have majored in Computer Science with a minor in Intelligent Systems at Manipal Institute of Technology (BTech). Currently I am applying for a Master's in Computer Science in the US for Fall 2022.
 
 I have recently developed an interest in learning (and using) new words to <strike>bamboozle</strike> edify my friends. For this, I would like to give credit to the GRE for being more than just another exam.
 
