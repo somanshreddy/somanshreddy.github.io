@@ -33,11 +33,6 @@ Upcoming features on this website
 {% include about/timeline.html title="Experience" %}
 </div>
 
-<div class="row" id="programming-languages">
-{% include about/skills.html title="Programming Languages" source=site.data.programming-skills %}
-<!-- {% include about/skills.html title="Other Skills" source=site.data.other-skills %} -->
-</div>
-
 <div class="row" id="github-contributions">
 {% include about/github.html title="GitHub Contributions" %}
 </div>
