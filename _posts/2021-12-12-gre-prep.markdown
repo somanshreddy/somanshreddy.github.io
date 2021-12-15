@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GRE Preparation: 337/340"
-date:   2021-12-09 05:28:22 +0530
+date:   2021-12-12 05:28:22 +0530
 tags: [exam]
 categories: exam
 color: primary
