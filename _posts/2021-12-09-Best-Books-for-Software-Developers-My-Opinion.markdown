@@ -7,7 +7,7 @@ categories: books
 color: dark
 style: fill
 comments: true
-description: Some of the best books for software developers that I have read!
+description: The best books that a Software Developer can get.
 ---
 
 ### List of books

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "TOEFL Preparation: 117/120"
+title:  "One week for the TOEFL. Is it enough?"
 date:   2021-12-14 05:28:22 +0530
 tags: [exam]
 categories: exam
 color: secondary
 style: fill
 comments: true
-description: How I scored a 117/120 on the TOEFL without spending any money on expensive test prep services
+description: No, unfortunately this guide does not teach you <i>How to English</i>. But it does describe the strategies that I have followed to score a 117/120 WITHOUT purchasing any test prep service.
 ---
 
 ## Official scores

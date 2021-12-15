@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top 5 practices for freshers to become productive quickly (Coming Soon)"
+title:  "Top 5 ways for freshers to become productive quickly (Coming Soon)"
 date:   2021-12-19 05:28:22 +0530
 tags: [industry]
 categories: industry

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "GRE Preparation: 337/340"
+title:  "GRE. More than just an exam?"
 date:   2021-12-12 05:28:22 +0530
 tags: [exam]
 categories: exam
 color: primary
 style: fill
 comments: true
-description: How I scored a 337/340 on the GRE without spending any money on expensive test prep services
+description: How a sudden epiphany changed the way I think about the GRE.
 ---
 
 ## Official scores
@@ -67,6 +67,8 @@ Please ensure that it has the correct first name. Until I applied for the GRE - 
 Also, ensure that your passport has NOT expired. It must be valid on the day of the exam. Although this seems obvious, this might go unnoticed by the test taker in the hullabaloo of test preparation. But it does not escape the scrutiny of the officials at the test center.
 
 ### Part 5: My takeaways (Coming soon)
+
+Sorry for the wait. I am on the final draft for this section. This is an important one. Stay tuned!
 
 ### Part 6: Frequently Asked Questions (FAQ) (Coming soon)
 
