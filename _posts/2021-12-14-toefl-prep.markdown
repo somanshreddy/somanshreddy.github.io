@@ -25,12 +25,12 @@ As you can see above, I have written the TOEFL exam twice. Unfortunately, my fir
 
 While the TOEFL is much easier than the Verbal section of the GRE, it is essential that one familiarizes themselves with some of its nuances. In particular, managing the timing of the Speaking section is crucial.
 
-There are a plethora of detailed guides available online on how to study for the TOEFL. I would recommend that you check out some posts on Reddit. There is no one-size-fits-all strategy hence I recommended reading a few different experiences. 
+There are a plethora of detailed guides available online on how to study for the TOEFL. I would recommend that you check out some posts on Reddit. There is no one-size-fits-all strategy. Hence, I recommended reading a few different experiences. 
 
 The goals of this exercise is given below:
 
 <ul>
-	<li>List the resources that you require for your exam preparation.</li>
+	<li>Gather the required test prep resources.</li>
 	<li>Analyze the common mistakes that test-takers make.</li>
 </ul>
 
@@ -78,7 +78,7 @@ As for this blog post, I will address each of the above points based on my exper
 
 ### Part 3: Test Day
 
-You are required to carry an identification proof. In India, it is a valid passport. Refer to the ETS website for the requirements for your country. 
+You are required to carry identification proof. In India, it is a valid passport. Refer to the ETS website for the requirements for your country. 
 
 Please ensure that it has the correct first name. Until I applied for the GRE - I wasn't aware that my first name was 'Somansh Reddy' and not just 'Somansh'.
 

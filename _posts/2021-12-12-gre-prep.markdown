@@ -16,12 +16,12 @@ description: How a sudden epiphany changed the way I think about the GRE.
 
 ## My experience
 
-There are a plethora of detailed guides available online on how to study for the GRE. I would recommend that you check out some Reddit posts by top scorers. There is no one-size-fits-all strategy hence I recommended reading a few different test-prep experiences.
+There are a plethora of detailed guides available online on how to study for the GRE. I would recommend that you check out some Reddit posts by top scorers. There is no one-size-fits-all strategy. Hence, I recommended reading a few different test-prep experiences.
 
 The goals of this exercise is given below:
 
 <ul>
-	<li>List the resources that you require for your exam preparation.</li>
+	<li>Gather the required test prep resources.</li>
 	<li>Analyze the common mistakes that test-takers make.</li>
 	<li>Identify the patterns in the practices followed by top scorers.</li>
 </ul>
@@ -32,35 +32,35 @@ As for this blog post, I will address each of the above points based on my exper
 
 <ol>
 	<li>Create an ETS GRE account.</li>
-	<li>Familiarize yourself with the test pattern, i.e, the test duration, the number of sections and the number of questions in each section.</li>
+	<li>Familiarize yourself with the test pattern, i.e., the test duration, the number of sections, and the number of questions in each section.</li>
 </ol>
 
 ### Part 1: Resources
 
 <ol>
 	<li>Official ETS guides - Ironically, THE best test material yet the most often overlooked.</li>
-	<li>For Verbal, the test taking strategies outlines in <a href="https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ">GregMat's YouTube channel</a> are excellent!</li>
+	<li>For Verbal, the test-taking strategies outlined in <a href="https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ">GregMat's YouTube channel</a> are excellent!</li>
 	<li>Manhattan Prep's 5 Lb. Book Of GRE Practice Problems</li>
 	<li>The two POWERPREP® Practice Tests</li>
-	<li>(optional) The three POWERPREP PLUS®. I would highly recommend that you take at least one of these. Although many people say that the third test most closely resembles the actual test, I did not feel that any one particular test was better than the other.</li>
+	<li>(optional) The three POWERPREP PLUS®. I would highly recommend that you take at least one of these. Although many people say that the third test most closely resembles the actual test, I did not feel that any particular test was better than the other.</li>
 </ol>
 
 ### Part 2: Common Mistakes
 
 <ul>
-	<li>Focusing solely on third party test preparation material because you paid the big bucks for it. As GregMat stresses in many of his videos, the ETS material is the real deal. Hence, it most closely resembles the actual test - in particular, the subtle ways in which the GRE answer choices trick you.</li>
+	<li>Focusing solely on third-party test preparation material because you paid the big bucks for it. As GregMat stresses in many of his videos, the ETS material is the real deal. Hence, it most closely resembles the actual test - particularly the subtle ways in which the GRE answer choices trick you.</li>
 	<li>Not reviewing enough. Do not focus on solving as many questions as you can. You need to focus on analyzing your mistakes and trying to identify patterns.</li>
 </ul>
 
 ### Part 3: Patterns of top scorers
 
 <ul>
-	<li>Maintaining an error log for Quant. This is essentially a list of the mistakes that you have made. This should not contain any specific questions that you have answered incorrectly. It works at a higher level of abstraction - the concept. For example, not considering negative numbers, not taking 2 as a prime, etc are perfect candidates for the error log.</li>
+	<li>Maintaining an error log for Quant. This is essentially a list of the mistakes that you have made. This should not contain any specific questions that you have answered incorrectly. It works at a higher level of abstraction - the concept. For example, not considering negative numbers, not taking two as a prime, etc, are perfect candidates for the error log.</li>
 </ul>
 
 ### Part 4: Test Day
 
-You are required to carry an identification proof. In India, it is a valid passport. Refer to the ETS website for the requirements for your country. 
+You are required to carry identification proof. In India, it is a valid passport. Refer to the ETS website for the requirements for your country. 
 
 Please ensure that it has the correct first name. Until I applied for the GRE - I wasn't aware that my first name was 'Somansh Reddy' and not just 'Somansh'.
 
