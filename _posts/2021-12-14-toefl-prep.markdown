@@ -78,7 +78,7 @@ As for this blog post, I will address each of the above points based on my exper
 
 ### Part 3: Test Day
 
-You are required to carry identification proof. In India, it is a valid passport. Refer to the ETS website for the requirements for your country. 
+You are required to carry identification proof. In India, it is a valid passport. Refer to the ETS website for the requirements for your country.
 
 Please ensure that it has the correct first name. Until I applied for the GRE - I wasn't aware that my first name was 'Somansh Reddy' and not just 'Somansh'.
 
