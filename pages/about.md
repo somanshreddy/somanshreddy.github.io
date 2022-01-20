@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me :wave:**
 
-Hello there, my name is Somansh Reddy Satish. I am a backend software development engineer at Komprise in Bangalore, India. I am broadly interested in Distributed Systems, Systems for Machine Learning and the Cloud.
+My name is Somansh Reddy Satish. I am a senior software engineer at Komprise in Bangalore, India. I am broadly interested in Distributed Systems, Systems for Machine Learning and the Cloud.
 
 I have majored in Computer Science with a minor in Intelligent Systems at Manipal Institute of Technology (BTech). I have applied for a Master's in Computer Science in the US for Fall 2022. Currently, I am awaiting decisions.
 
